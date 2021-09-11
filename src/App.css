@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+button {
+    border-radius: 0px;
+}
+
+input {
+    border: 1px solid black;
+}
+
+#logo {
+    height: 50px;
+    width: auto;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+form {
+   
+    border: 1px solid lightgray;
+    box-shadow: lightgray;
+    padding: 20px;
+}
